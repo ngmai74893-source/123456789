@@ -1,1 +1,1 @@
-import('./meojs/app.js');
+import('./meojs/app1.js');
