@@ -1,0 +1,1 @@
+import('./meojs/script.js');
