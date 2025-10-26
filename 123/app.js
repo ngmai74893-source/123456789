@@ -1,1 +1,1 @@
-import('./123/meojs/1.js');
+import('./meojs/1.js');
