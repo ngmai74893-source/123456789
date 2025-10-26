@@ -1,1 +1,1 @@
-import('./meojs/1.js');
+import('./meojs/i.js');
